@@ -21,3 +21,7 @@ b. Raid 0 e 1 ed altro
 7. San = storage area network.
 8. Il NAS posso usarlo per fare dei backup ciclici.
 9. Ottimo il nas per la segmentazione.
+10. XOR logica del raid, algoritmo matematico.
+11. Uno dei più usati è il raid 5 Striping con parità (equilibrio).
+12. Tollera un disco guasto, se si rompono 2 dischi, i dati sono persi.
+13. 
