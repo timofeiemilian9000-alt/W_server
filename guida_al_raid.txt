@@ -11,11 +11,13 @@ a. Overview
 9. Un blocco è una porzione di spazio di dimensione fissa.
 10. Il blocco non sa cosa contiene.
 
-b. 
+b. Raid 0 e 1 ed altro
 1. Raid 0 è veloce ma se si spacca il 50% del Raid il DB si rompe.
 2. Il Raid 0 non si usa molto ma esiste.
 3. Raid 0 = massima velocità zero sicurezza.
 4. NLB = Node Road Balance, se si rompe uno si attiva l'altro.
 5. Raid 1 Mirroring se un disco si rompe, l'altro ha tutti i dati.
-6. Network attached storage = Nas
-7. San = storage area network
+6. Network attached storage = Nas.
+7. San = storage area network.
+8. Il NAS posso usarlo per fare dei backup ciclici.
+9. Ottimo il nas per la segmentazione.
