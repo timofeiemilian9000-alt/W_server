@@ -1,0 +1,8 @@
+Cybersecuriy docenti: dal problema alla soluzione.
+
+1. Mettiamo caso che ci sia un disco nel pc ed uno nel server. 
+2. Trasferisco dati dal pc al server.
+3. Ci sono magari molti file.
+4. Nasce la necessità di inviare veloce. 
+5. Prestazioni nei raid si traduce in meno sicurezza.
+6. 2 raid in media che le aziende usano.
