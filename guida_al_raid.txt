@@ -1,8 +1,17 @@
 Cybersecuriy docenti: dal problema alla soluzione.
-
+a. Overview
 1. Mettiamo caso che ci sia un disco nel pc ed uno nel server. 
 2. Trasferisco dati dal pc al server.
 3. Ci sono magari molti file.
 4. Nasce la necessità di inviare veloce. 
 5. Prestazioni nei raid si traduce in meno sicurezza.
-6. 2 raid in media che le aziende usano.
+6. 2 raid in media che le aziende usano nel loro ambiente.
+7. Il raid sostanzialmente fa una copia in blocco di file.
+8. Se si rompe un disco tutti i file sono comunque recuperabili.7
+9. Un blocco è una porzione di spazio di dimensione fissa.
+10. Il blocco non sa cosa contiene.
+
+b. 
+1. Raid 0 è veloce ma se si spacca il 50% del Raid il DB si rompe.
+2. Il Raid 0 non si usa molto ma esiste.
+3. Raid 0 = massima velocità zero sicurezza.
