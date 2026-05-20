@@ -1,0 +1,2 @@
+I CT_Templates sono dei container che servono per fare girare degli applicativi.
+Il qemu agent ti fa vedere le statistiche in tempo reale delle prestazioni del tuo computer (while it runs).
